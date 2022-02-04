@@ -1,0 +1,18 @@
+.container{
+    position: relative;
+    margin-left: 35%;
+}
+.display{
+    padding: 150px;
+    font-size: 100px;
+}
+.decrease , .increase  , .reset{
+    padding: 20px;
+    border-radius: 25px;
+    background-color: rgb(114, 114, 179);
+    color: aliceblue;
+    font-size: 25px;
+}
+.decrease:hover, .increase:hover , .reset:hover{
+    background-color: rgb(1, 1, 17);
+}
